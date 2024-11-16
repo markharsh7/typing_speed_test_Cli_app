@@ -1,1 +1,1 @@
-# typing_speed_test_Cli_app
+# Typing_Speed_Test_Cli_App
